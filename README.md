@@ -1,4 +1,4 @@
-GO TO THIS LINK TO SEE THE APP--->> https://tictactoe-gamejs.web.app  OR  https://react-project-game.web.app
+GO TO THIS LINK TO SEE THE APP--->>  https://react-project-game.web.app
 
 ENJOY THE GAME 
 
